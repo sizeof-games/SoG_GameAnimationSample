@@ -9,4 +9,4 @@ It will automatically add all nedded config lines to your DefaultGame.ini and De
 
 Additional Information
 ----
-See the [SizeOf Games](www.sizeofgames.com).
+See the [SizeOf Games](https://sizeofgames.com/).
