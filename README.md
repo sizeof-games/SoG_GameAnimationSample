@@ -1,4 +1,4 @@
-SizeOf Games' Game Animation Sample UE5 plugins
+SizeOf Games' Game Animation Sample UE5 plugin
 ===
 
 General Information
